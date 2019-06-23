@@ -22,23 +22,28 @@ const dataSource = {
       data: [
         {
           label: "Group",
-          value: "300000"
+          value: "300000",
+          "issliced": "1"
         },
         {
           label: "Retail",
-          value: "230000"
+          value: "230000",
+          "issliced": "1"
         },
         {
           label: "Whosale",
-          value: "180000"
+          value: "180000",
+          "issliced": "1"
         },
         {
           label: "Discount",
-          value: "270000"
+          value: "270000",
+          "issliced": "1"
         },
         {
           label: "Others",
-          value: "90000"
+          value: "90000",
+          "issliced": "1"
         }
       ]
 };
